@@ -83,6 +83,6 @@ Interactive Filters & Slicers
 
 Data Visualization Best Practices
 
-Show me the dashboard look like, - ![ALT  text](https://github.com/Prathamsenger/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-12-31%20131123.png)
-Show: ![Dashboard Preview](https://github.com/Prathamsenger/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-12-31%20131123.png)
+Show me the dashboard look like, - ![ALT  text](https://github.com/Prathamsenger/Quick-10/blob/main/Screenshot%202026-01-03%20094525.png)
+Show: ![Dashboard Preview](https://github.com/Prathamsenger/Quick-10/blob/main/Screenshot%202026-01-03%20094525.png)
 
